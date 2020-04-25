@@ -1,0 +1,764 @@
+{
+    "1": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 250,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        }
+    },
+    "2": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        }
+    },
+    "3": {
+        "state": "OFF",
+        "brightness": 1
+    },
+    "4": {
+        "state": "ON",
+        "brightness": 190
+    },
+    "5": {
+        "state": "ON",
+        "brightness": 6,
+        "color_temp": 454
+    },
+    "6": {
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x00124b001efe6145": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "last_seen": 1584614323143,
+        "linkquality": 75
+    },
+    "0x000d6ffffeba7b5e": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587794754904,
+        "linkquality": 72
+    },
+    "0xd0cf5efffe6f53b3": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587794680816,
+        "linkquality": 108
+    },
+    "0x00158d00027d72a0": {
+        "battery": 100,
+        "voltage": 3005,
+        "linkquality": 54,
+        "side": 4,
+        "angle": -25.27,
+        "last_seen": 1587800146159
+    },
+    "0xd0cf5efffe1f5be3": {
+        "linkquality": 60,
+        "last_seen": 1579820138130,
+        "update_available": false
+    },
+    "0x90fd9ffffed967af": {
+        "state": "ON",
+        "update_available": false,
+        "last_seen": 1587785775959,
+        "linkquality": 63,
+        "brightness": 254,
+        "color_temp": 370,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0xd0cf5efffe1572af": {
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "update_available": false,
+        "last_seen": 1587785776191,
+        "linkquality": 60,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0xec1bbdfffeeb3deb": {
+        "state": "ON",
+        "color_temp": 370,
+        "update_available": false,
+        "brightness": 254,
+        "last_seen": 1587785775151,
+        "linkquality": 87,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x00124b000be5ac60": {
+        "state": true,
+        "led_state": false,
+        "linkquality": 72,
+        "last_seen": 1579007938415
+    },
+    "0x00158d0002b85baf": {
+        "battery": 80,
+        "voltage": 2965,
+        "illuminance": 4,
+        "linkquality": 72,
+        "occupancy": false,
+        "illuminance_lux": 4,
+        "last_seen": 1585254442958
+    },
+    "0xd0cf5efffe05c545": {
+        "state": "ON",
+        "color_temp": 250,
+        "brightness": 190,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801504120,
+        "linkquality": 54
+    },
+    "0x14b457fffe4422c9": {
+        "state": "ON",
+        "color_temp": 202,
+        "brightness": 190,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801446640,
+        "linkquality": 87
+    },
+    "0x000b57fffe998cf0": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801421438,
+        "linkquality": 63
+    },
+    "0x000b57fffe48bce7": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801422084,
+        "linkquality": 75
+    },
+    "0x0017880102c4eb36": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "last_seen": 1587801047998,
+        "linkquality": 54,
+        "update_available": false
+    },
+    "0x90fd9ffffe877eef": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587081988661,
+        "linkquality": 84
+    },
+    "0x90fd9ffffe901c13": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 250,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801504148,
+        "linkquality": 93
+    },
+    "0x000b57fffe8d2387": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801421737,
+        "linkquality": 75
+    },
+    "0x000b57fffeb1e89b": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587794603478,
+        "linkquality": 72
+    },
+    "0xd0cf5efffef71dcb": {
+        "state": "ON",
+        "color_temp": 202,
+        "brightness": 88,
+        "update_available": false,
+        "last_seen": 1587801561737,
+        "linkquality": 69,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0xd0cf5efffe2b0d81": {
+        "state": "ON",
+        "brightness": 88,
+        "color_temp": 202,
+        "update_available": false,
+        "last_seen": 1587801559344,
+        "linkquality": 87,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x0017880102c4e0ca": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        },
+        "last_seen": 1587801054782,
+        "linkquality": 72,
+        "update_available": false
+    },
+    "0x000b57fffe9eaa7b": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        },
+        "update_available": false,
+        "last_seen": 1587801420654,
+        "linkquality": 51
+    },
+    "0x0017880108166f57": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        },
+        "last_seen": 1587801442257,
+        "linkquality": 66,
+        "update_available": false
+    },
+    "0xd0cf5efffe05cb38": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 250,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        },
+        "update_available": false,
+        "last_seen": 1587801504094,
+        "linkquality": 90
+    },
+    "0x000b57fffedce5c1": {
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        },
+        "update_available": false,
+        "last_seen": 1587801420426,
+        "linkquality": 57
+    },
+    "0x0017880104f089cd": {
+        "linkquality": 30,
+        "battery": 100,
+        "counter": 1,
+        "brightness": 255,
+        "last_seen": 1583237017667,
+        "update_available": false
+    },
+    "0x000d6ffffee3f3d5": {
+        "linkquality": 54,
+        "battery": 74,
+        "update_available": true,
+        "last_seen": 1587788219550
+    },
+    "0x000d6ffffefcde8b": {
+        "state": "ON",
+        "update_available": false,
+        "last_seen": 1587801420414,
+        "linkquality": 63,
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        }
+    },
+    "0x086bd7fffe4141ed": {
+        "state": "ON",
+        "linkquality": 72,
+        "update_available": false,
+        "last_seen": 1587801420332,
+        "brightness": 190,
+        "color_temp": 202,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        }
+    },
+    "0x00124b001d3aa934": {
+        "state": "ON",
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        },
+        "color_temp": 354,
+        "brightness": 190,
+        "last_seen": 1587219720863,
+        "linkquality": 69
+    },
+    "0xd0cf5efffe44e080": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "last_seen": 1587785775309,
+        "linkquality": 87,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x00158d00028a19cf": {
+        "contact": true,
+        "linkquality": 57,
+        "battery": 100,
+        "voltage": 3065,
+        "last_seen": 1587800544167
+    },
+    "0x00158d00028b6bbb": {
+        "battery": 97,
+        "voltage": 2995,
+        "linkquality": 90,
+        "contact": true,
+        "last_seen": 1587800117907
+    },
+    "0xec1bbdfffeeb440e": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "last_seen": 1587785774875,
+        "linkquality": 63,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0xd0cf5efffee9ee80": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "last_seen": 1587785775701,
+        "linkquality": 60,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x086bd7fffe254322": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 254,
+        "color_temp": 370,
+        "last_seen": 1587785775674,
+        "linkquality": 93,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    },
+    "0x90fd9ffffe336d40": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 1,
+        "last_seen": 1587801620206,
+        "linkquality": 51
+    },
+    "0x00158d0002890282": {
+        "battery": 100,
+        "voltage": 3025,
+        "linkquality": 48,
+        "contact": true,
+        "last_seen": 1587801560781
+    },
+    "0x000b57fffec4f858": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 190,
+        "last_seen": 1587801527771,
+        "linkquality": 51
+    },
+    "0x00158d0002b6e52f": {
+        "battery": 100,
+        "voltage": 3035,
+        "illuminance": 74,
+        "illuminance_lux": 74,
+        "linkquality": 54,
+        "occupancy": false,
+        "last_seen": 1587800069177
+    },
+    "0x90fd9ffffe4c6bec": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 1,
+        "last_seen": 1587801620172,
+        "linkquality": 57
+    },
+    "0x000b57fffed5269f": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 1,
+        "last_seen": 1587801620341,
+        "linkquality": 63
+    },
+    "0x90fd9ffffe792ee9": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 190,
+        "last_seen": 1587244848337,
+        "linkquality": 57
+    },
+    "0x000b57fffeb8ee22": {
+        "update_available": false,
+        "state": "OFF",
+        "brightness": 190,
+        "last_seen": 1587287109328,
+        "linkquality": 87
+    },
+    "0x000b57fffed45fde": {
+        "state": "OFF",
+        "brightness": 1,
+        "update_available": false,
+        "last_seen": 1587801620276,
+        "linkquality": 57
+    },
+    "0x00158d00028a1a0e": {
+        "battery": 100,
+        "voltage": 3035,
+        "linkquality": 51,
+        "contact": true,
+        "last_seen": 1587800008702
+    },
+    "0x90fd9ffffe71813d": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "last_seen": 1587801625931,
+        "linkquality": 72
+    },
+    "0x000b57fffed9807d": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "last_seen": 1587801626075,
+        "linkquality": 75
+    },
+    "0x00158d0002e91e9a": {
+        "battery": 45,
+        "voltage": 2905,
+        "temperature": 27.78,
+        "humidity": 26.18,
+        "pressure": 985.2,
+        "linkquality": 54,
+        "last_seen": 1587799935644
+    },
+    "0x00158d0002720f9f": {
+        "battery": 51,
+        "voltage": 2915,
+        "temperature": 21.65,
+        "humidity": 36.63,
+        "pressure": 985,
+        "linkquality": 81,
+        "last_seen": 1587801246113
+    },
+    "0x00158d0002130a5b": {
+        "battery": 100,
+        "voltage": 3015,
+        "linkquality": 90,
+        "last_seen": 1587798988026
+    },
+    "0x00158d0001e83e74": {
+        "battery": 100,
+        "voltage": 3035,
+        "linkquality": 54,
+        "last_seen": 1587800121008
+    },
+    "0x00158d000272cf43": {
+        "battery": 38,
+        "voltage": 2875,
+        "temperature": 20.32,
+        "humidity": 38.61,
+        "pressure": 985,
+        "linkquality": 54,
+        "last_seen": 1587800900490
+    },
+    "0x00158d00042457ef": {
+        "battery": 100,
+        "voltage": 3025,
+        "linkquality": 54,
+        "last_seen": 1587800821997
+    },
+    "0x00158d000428fa3b": {
+        "battery": 100,
+        "voltage": 3055,
+        "linkquality": 48,
+        "last_seen": 1587799850890
+    },
+    "0x00158d00025efd10": {
+        "battery": 68,
+        "voltage": 2945,
+        "temperature": 16.84,
+        "humidity": 43.58,
+        "pressure": 982.1,
+        "linkquality": 57,
+        "last_seen": 1584490964002
+    },
+    "0x00158d00025f040e": {
+        "battery": 74,
+        "voltage": 2955,
+        "temperature": 17.18,
+        "humidity": 53.17,
+        "pressure": 985.5,
+        "linkquality": 57,
+        "last_seen": 1587799387298
+    },
+    "0x00158d0002733f1a": {
+        "battery": 62,
+        "voltage": 2935,
+        "temperature": 19.52,
+        "humidity": 29.37,
+        "pressure": 1006.5,
+        "linkquality": 84,
+        "last_seen": 1584706452375
+    },
+    "0x000b57fffe8a0ad9": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 1,
+        "last_seen": 1583565478739
+    },
+    "0x90fd9ffffeea8593": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 116,
+        "color": {
+            "x": 0.397,
+            "y": 0.363
+        },
+        "last_seen": 1587799130055,
+        "linkquality": 75
+    },
+    "0x00158d0002e94b50": {
+        "battery": 68,
+        "voltage": 2945,
+        "temperature": 16.33,
+        "humidity": 37.87,
+        "pressure": 985.2,
+        "linkquality": 60,
+        "last_seen": 1584344481971
+    },
+    "0x0017880104259fa6": {
+        "state": "OFF",
+        "color_temp": 451,
+        "brightness": 11,
+        "last_seen": 1587801029009,
+        "linkquality": 48,
+        "update_available": false
+    },
+    "0x0017880104259fb3": {
+        "state": "ON",
+        "color_temp": 454,
+        "brightness": 6,
+        "last_seen": 1587801028904,
+        "linkquality": 63,
+        "update_available": false
+    },
+    "0x00158d0001e83dba": {
+        "battery": 91,
+        "voltage": 2985,
+        "linkquality": 60,
+        "last_seen": 1587800810827
+    },
+    "0x90fd9ffffe723f2a": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "last_seen": 1587801626052,
+        "linkquality": 81
+    },
+    "0x00178801067347bc": {
+        "battery": 100,
+        "linkquality": 99,
+        "counter": 1,
+        "update_available": false,
+        "last_seen": 1587755048497,
+        "brightness": 223
+    },
+    "0x588e81fffe1001f0": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "last_seen": 1587801447190,
+        "linkquality": 63,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        }
+    },
+    "0x680ae2fffe3f7d56": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 354,
+        "linkquality": 84,
+        "last_seen": 1587757828258,
+        "color": {
+            "x": 0.450299176483844,
+            "y": 0.408208066928357
+        }
+    },
+    "0x588e81fffe0e784d": {
+        "update_available": false,
+        "state": "ON",
+        "brightness": 190,
+        "color_temp": 202,
+        "last_seen": 1587749919008,
+        "linkquality": 66,
+        "color": {
+            "x": 0.346519412300469,
+            "y": 0.352739070727817
+        }
+    },
+    "0x00158d0002130e2c": {
+        "battery": 100,
+        "voltage": 3025,
+        "linkquality": 54,
+        "last_seen": 1587799134897
+    },
+    "0x00158d0002b8fdf9": {
+        "battery": 100,
+        "voltage": 3015,
+        "illuminance": 59,
+        "illuminance_lux": 59,
+        "linkquality": 75,
+        "last_seen": 1587801539703,
+        "occupancy": true
+    },
+    "0x000b57fffe8b1882": {
+        "update_available": false,
+        "last_seen": 1587801558619,
+        "state": "ON",
+        "linkquality": 57,
+        "brightness": 254
+    },
+    "0x000b57fffe89df9e": {
+        "update_available": false,
+        "last_seen": 1587801481652,
+        "state": "ON",
+        "linkquality": 69,
+        "brightness": 254
+    },
+    "0x000b57fffe48b86e": {
+        "update_available": false,
+        "last_seen": 1587801511431,
+        "state": "ON",
+        "linkquality": 90,
+        "brightness": 254
+    },
+    "0x00158d0002720f9b": {
+        "battery": 86,
+        "voltage": 2975,
+        "temperature": 22,
+        "humidity": 30.8,
+        "pressure": 984.8,
+        "linkquality": 57,
+        "last_seen": 1587801432666
+    },
+    "0x086bd7fffe53cdb2": {
+        "brightness": 254,
+        "linkquality": 60,
+        "last_seen": 1587785775686,
+        "update_available": false,
+        "state": "ON",
+        "color_temp": 370,
+        "color": {
+            "x": 0.4599,
+            "y": 0.4106
+        }
+    }
+}
